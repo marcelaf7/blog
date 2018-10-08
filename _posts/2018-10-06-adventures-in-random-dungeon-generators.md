@@ -14,3 +14,6 @@ Right now, I am focusing on the dungeon map. I want it to be randomly generated,
 I did a lot of reading about Perlin Noise and how it worked. I spent a few hours trying to use it in my dungeon generator, but I eventually decided not to use it. I did so, partially because the code examples I found online for Perlin Noise were really hard to follow, but mostly because Perlin Noise makes round, smooth shapes. My plan for this game is for the dungeons to be filled with rectangular rooms rather than rounded openings.
 
 So I came up with a new, simpler idea. I could just write an algorithm that generates random rectangles for rooms and draws lines between them for hallways or passageways. So far, it is going even better than I expected. Generating random rectangles that can overlap creates mostly rectangular rooms and occasional odd shaped ones. It also creates a wider range of room sizes. At the time of writing this post, I have the rectangle generator done, but I have yet to finish the code for the hallways. I have high hopes and I trust that it will go well. I will post an update on the final product in a future post.
+
+Here's what the generator looks like so far:
+![dungeon generator image](/images/2018-10-06-dungeon-generator)
