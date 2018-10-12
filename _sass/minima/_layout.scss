@@ -107,11 +107,14 @@
  */
 .site-footer {
   border-top: 5px solid #000;
-  padding: $spacing-unit 0;
+  padding: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #81B1FF;
 }
 
 .footer-heading {
+  display: none;
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
 }
