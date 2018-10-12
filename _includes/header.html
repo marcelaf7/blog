@@ -1,0 +1,10 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div style="float:left; height: 1px; width: 20%"></div>
+    <a href="http://marcelfiore.com"><h3 style="float:left; margin-bottom:0; line-height:54px;">Back to Main Site</h3></a>
+  </div>
+</header>
