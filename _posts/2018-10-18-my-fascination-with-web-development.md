@@ -3,7 +3,7 @@ layout: post
 title:  "My Fascination With Web Development"
 ---
 
-It should not be a secret that I am purusing a career in back-end development, but that might bring up the question of why I have so many front-end web development projects. So far I have 4. My portfolio website, the clicker game on the site, my web-based dungeon crawler game, and even this blog. I even had 2 internships that were primarily web development. I have been fascinated by web development for almost the past year, but why?
+It should not be a secret that I am persuing a career in back-end development, but that might bring up the question of why I have so many front-end web development projects. So far I have 4. My portfolio website, the clicker game on the site, my web-based dungeon crawler game, and even this blog. I even had 2 internships that were primarily web development. I have been fascinated by web development for almost the past year, but why?
 
 ### All Engineers Should Learn Front-End Development
 
@@ -20,4 +20,4 @@ A big reason that I chose the web over other front-end applications is because t
 
 ### It Is a Big Part of Our Lives
 
-Web development is a very big part of our lives. Not only are some very big platforms like Facebook and Twitter based on the web, but portability of web applications is enticing developers to make web apps instead of mobile or desktop applications. A well designed web app can be used on any device that has a browser with very small issues. The only limitation I have found is screen size 
+Web development is a very big part of our lives. Not only are some very big platforms like Facebook and Twitter based on the web, but portability of web applications is enticing developers to make web apps instead of mobile or desktop applications. Desktop and mobile applications often must be reprogrammed for each device. iOS applications have only a few proprietary programming langues. Android has a wider variety of languages, but none in common with iOS. In order to create an app for both platforms, it must be programmed twice. A web application programmed to respond to various screen sizes can be used on all devices with a browser without the need for reprogramming. More importantly, the user does not have to download the app or log in in order to access it. 
